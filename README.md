@@ -1,4 +1,4 @@
-# FCCMB-LearnJava7FullTutorial-20180808
+# FCCMB-LearnJava8FullTutorial-20180808
 
 freecodecamp (Marcus Biel) - Learn Java 8 - Full Tutorial for Beginners (Aug 8, 2018) 
 
